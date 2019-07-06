@@ -46,6 +46,9 @@ BurpSuite.icns: Mac OS X icon, 15546 bytes, "ic13" type
 
 ### 0x06 替换burpsuite.app 的ico为BurpSuite.icns
 
+##### 打开automator.app
+`命令： command + Space（空格）`
+![](./images/automator.png)
 
 ##### 运行Shell 脚本：
 
