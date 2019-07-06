@@ -14,7 +14,7 @@ file BurpSuite.png
 BurpSuite.png: PNG image data, 256 x 256, 8-bit colormap, non-interlaced
 ```
 
-### 0x03 设置ico 为 icon_128x128@2x.png
+### 0x03 设置ico 为icon_128x128@2x
 
 ```sips -z 256 256   BurpSuite.png --out icons.iconset/icon_128x128@2x.png```
 
@@ -56,7 +56,5 @@ java -Djsse.enableSNIExtension=false -jar burpsuite.jar
 
 ```
 ![](./images/burpsuite-app-shell.png)
-![](./images/burpdsuite-icns.png)
-
-
 ![](./images/burp.png)
+![](./images/burpdsuite-icns.png)
