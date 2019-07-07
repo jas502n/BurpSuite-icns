@@ -9,6 +9,9 @@
 
 ![](./images/Google_search_burpsuite.png)
 
+###### image address : 
+`https://pbs.twimg.com/profile_images/923539294299533312/RM9x0Xgt_400x400.jpg`
+
 
 ### 0x02 设置像素为256 x 256
 
@@ -64,3 +67,8 @@ java -Djsse.enableSNIExtension=false -jar burpsuite.jar
 ![](./images/burpsuite-app-shell.png)
 ![](./images/burp.png)
 ![](./images/burpdsuite-icns.png)
+
+### 参考链接
+https://blog.csdn.net/NEUQ_zxy/article/details/79679327
+
+https://pbs.twimg.com/profile_images/923539294299533312/RM9x0Xgt_400x400.jpg
