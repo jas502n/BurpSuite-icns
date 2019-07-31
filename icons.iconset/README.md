@@ -12,3 +12,9 @@ df460c94ea8cb4c6d53b5cbea58f8e3b  icon_128x128@2x.png
 md5sum BurpSuite.icns
 e5ebde20b34600f7eaf9ed93bbbf4b01  BurpSuite.icns
 ```
+
+Run Behinder.jar
+
+```
+java -XstartOnFirstThread -jar Behinder.jar
+```
